@@ -5,6 +5,6 @@
 </div>
 </br>
 
-📺 Find me on youtube! there I create fun tutorials about javascript (in Spanish) [on the code](https://www.youtube.com/channel/UCrP5xPLzqW3k6ssG8C7lHVw)
+📺 Find me on youtube! there I create fun tutorials about javascript (in Spanish) [on the code YouTube](https://www.youtube.com/channel/UCrP5xPLzqW3k6ssG8C7lHVw)
 </br>
 🔗 Here you can find all my links [on the code Links](https://www.onthecode.club/)
