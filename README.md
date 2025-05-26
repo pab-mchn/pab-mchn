@@ -6,9 +6,9 @@
 
 ---
 
-## 🧭 About Me
+## 🧉 About Me
 
-- 🎯 Building fullstack apps with React, Next.js, TypeScript, and Supabase.  
+- 💻 Building fullstack apps with React, Next.js, TypeScript, and Supabase.  
 - 💡 I enjoy learning and sharing knowledge with others.
 
 ---
