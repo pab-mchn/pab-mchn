@@ -13,13 +13,22 @@
 
 ---
 
-## 🛠️ Tech I Use
+## 🧠 My Favorite Stack
 
 **Frontend**  
-`React` `Next.js` `TypeScript` `TailwindCSS`
+<p align="left">
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+</p>
 
-**Backend & Tools**  
-`Supabase` `Node.js` `PostgreSQL`
+**Backend & Tools** 
+<p align="left">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+</p>
 
 ---
 
