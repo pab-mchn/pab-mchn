@@ -38,6 +38,6 @@
 ✍️ *And writing articles too*
 
 ➡️ [https://www.youtube.com/@onthecode]  
-➡️ [https://onthecode.hashnode.dev]
+➡️ [https://www.onthecode.blog]
 
 ---
