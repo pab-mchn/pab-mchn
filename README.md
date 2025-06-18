@@ -33,7 +33,7 @@
 
 ---
 
-## ✨ Courses / Content
+## ✨ Content Creation
 
 🎥 *I love creating web development tutorials on YouTube*  
 ✍️ *And writing articles too*
